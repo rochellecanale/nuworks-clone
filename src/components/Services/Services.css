@@ -1,0 +1,110 @@
+@media (max-width: 575.98px) {
+	#services-inner .services-wrapper .middle .services-title img {
+		width: 300px !important;
+	}
+
+	#services-inner .services-wrapper .middle .services-desc {
+		width: 100% !important;
+	}
+
+	#services-inner .services-image {
+		text-align: center;
+	}
+
+	#services-inner .services-image img {
+		width: 250px !important;
+	}
+
+	#services-inner .services-wrapper .middle .services-desc {
+		margin-left: unset !important;
+	}
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+	#services-inner .services-wrapper .middle .services-title img {
+		width: 300px !important;
+	}
+
+	#services-inner .services-wrapper .middle .services-desc {
+		width: 100% !important;
+	}
+	#services-inner .services-image img {
+		width: 250px !important;
+	}
+	#services-inner .services-wrapper .middle .services-desc {
+		margin-left: unset !important;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	#services-inner .services-wrapper .middle .services-title img {
+		width: 300px !important;
+	}
+
+	#services-inner .services-wrapper .middle .services-desc {
+		width: 100% !important;
+	}
+	#services-inner .services-image img {
+		width: 350px !important;
+	}
+	#services-inner .services-wrapper .middle .services-desc {
+		margin-left: unset !important;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	#services-inner .services-wrapper .middle .services-title img {
+		width: 300px !important;
+	}
+	#services-inner .services-wrapper .middle .services-desc {
+		width: 100% !important;
+	}
+	#services-inner .services-image img {
+		width: 450px !important;
+	}
+	#services-inner .services-wrapper .middle .services-desc {
+		margin-left: unset !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	#services-inner .services-wrapper .middle .services-title img {
+		width: 500px !important;
+	}
+
+	#services-inner .services-wrapper .middle .services-desc {
+		width: 100% !important;
+	}
+	#services-inner .services-wrapper .middle .services-desc {
+		margin-left: unset !important;
+	}
+}
+
+
+#services-inner .services-wrapper {
+	display: table;
+	height: 100%;
+}
+
+#services-inner .services-wrapper .middle {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#services-inner .services-wrapper .middle .services-title img {
+	width: 500px;
+	height: auto;
+}
+
+#services-inner .services-wrapper .middle .services-desc {
+	width: 60%;
+	color: #CCCCCC;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+
+#services-inner .services-image img {
+	height: auto;
+	width: 550px;
+}

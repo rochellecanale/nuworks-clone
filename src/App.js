@@ -3,6 +3,7 @@ import FloatingLogo from "./components/FloatingLogo/FloatingLogo";
 import Navbar from "./components/Navbar/Navbar";
 import Menu from "./components/Menu/Menu";
 import HomeBanner from "./components/HomeBanner/HomeBanner";
+import Services from "./components/Services/Services";
 
 function App() {
 	return (
@@ -11,6 +12,7 @@ function App() {
 			<Navbar />
 			<Menu />
 			<HomeBanner />
+			<Services />
 		</div>
 	);
 }
