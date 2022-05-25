@@ -1,0 +1,144 @@
+@media (max-width: 575.98px) {
+	#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-inner .our-values-icon img {
+		width: 250px !important;
+	}
+	#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-header {
+		font-size: 25px !important;
+	}
+	#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-text {
+		font-size: 16px !important;
+		line-height: unset !important;
+	}
+	#our-values .our-values-wrapper .our-values-title img {
+		width: 250px !important;
+	}
+
+	#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-header {
+		margin-top: 40px;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+	#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-inner .our-values-icon img {
+		width: 320px !important;
+	}
+	#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-header {
+		font-size: 25px !important;
+	}
+
+	#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-text {
+		font-size: 16px !important;
+		line-height: unset !important;
+	}
+	#our-values .our-values-wrapper .our-values-title img {
+		width: 250px !important;
+	}
+
+	#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-header {
+		margin-top: 40px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	#our-values .our-values-wrapper .our-values-title img {
+		width: 300px !important;
+	}
+
+	#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-header {
+		margin-top: 40px;
+	}
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	#our-values .our-values-wrapper .our-values-title img {
+		width: 300px !important;
+	}
+
+	#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-header {
+		margin-top: 40px;
+	}
+}
+
+@media (min-width: 1200px) {
+	#our-values .our-values-wrapper .our-values-title img {
+		width: 400px !important;
+	}
+
+	#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-header {
+		margin-top: 40px;
+	}
+}
+
+
+#our-values .our-values-wrapper .our-values-title img {
+	width: 400px;
+	height: auto;
+}
+
+#our-values .our-values-wrapper .our-values-desc .our-values-list {
+	margin: 100px 0;
+}
+
+#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-header {
+	color: #F6C900;
+	text-transform: uppercase;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 42px;
+}
+
+#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-text {
+	color: #FFFFFF;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 45px;
+}
+
+#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-text span {
+	color: #F6C900;
+	font-weight: 800;
+}
+
+#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-inner {
+	display: table;
+	height: 100%;
+	width: 100%;
+}
+
+#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-inner .our-values-icon {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
+#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-inner .our-values-icon img {
+	height: auto;
+	width: 400px;
+}
+
+#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-inner .our-values-icon .be-brave {
+	margin-top: -30px;
+}
+
+#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-inner .our-values-icon .lead-the-change {
+	margin-top: 35px;
+}
+
+#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-inner .our-values-icon .be-trust {
+	margin-top: -40px;
+}
+
+#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-inner .our-values-icon .be-customer {
+	margin-top: -40px;
+}
+
+#our-values .our-values-wrapper .our-values-desc .our-values-list .our-values-inner .our-values-icon .be-better {
+	margin-top: 10px;
+}
+
+#our-values .our-values-wrapper .our-works-carousel .our-works-event {
+	margin: 40px 0 50px;
+}

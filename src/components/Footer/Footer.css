@@ -1,0 +1,128 @@
+@media (max-width: 575.98px) {
+	.footer .footer-wrapper .footer-inner .mobile .tnc-pp {
+		font-size: 13px !important;
+	}
+
+}
+
+.footer {
+	background-color: #CCCCCC;
+	margin-top: 50px;
+	flex-shrink: 0;
+}
+
+.footer .footer-wrapper {
+	padding: 10px 20px;
+}
+
+.footer .footer-wrapper .footer-inner .desktop .copyright {
+	padding: 25px 0px 0px;
+	color: #1E1D1D;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 20px;
+	letter-spacing: 0em;
+	text-align: left;
+}
+
+.footer .footer-wrapper .footer-inner .desktop .text-right .tnc-pp {
+	display: inline-block;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 28px;
+	letter-spacing: 0.02em;
+	text-align: left;
+	margin-right: 30px;
+}
+
+.footer .footer-wrapper .footer-inner .desktop .text-right .tnc-pp a {
+	text-underline-position: under;
+	text-decoration: underline;
+	color: #1E1D1D;
+}
+
+.footer .footer-wrapper .footer-inner .desktop .text-right .socmed {
+	display: inline-block;
+	padding: 20px 0px 0px;
+}
+
+.footer .footer-wrapper .footer-inner .desktop .text-right .socmed ul {
+	display: flex;
+	padding: 0;
+}
+
+.footer .footer-wrapper .footer-inner .desktop .text-right .socmed ul li {
+	display: flex;
+	margin: 0px 8px;
+}
+
+.footer .footer-wrapper .footer-inner .desktop .text-right .socmed ul li img {
+	height: auto;
+	width: 32px;
+}
+
+.footer .footer-wrapper .footer-inner .desktop .text-right .socmed ul li:first-child {
+	margin: 0px 8px 0px 0px;
+}
+
+.footer .footer-wrapper .footer-inner .desktop .text-right .socmed ul li:nth-child(2) img {
+	width: 34px;
+}
+
+.footer .footer-wrapper .footer-inner .mobile .socmed {
+	display: block;
+	padding: 20px 0px 0px;
+}
+
+.footer .footer-wrapper .footer-inner .mobile .socmed ul {
+	display: flex;
+	padding: 0;
+}
+
+.footer .footer-wrapper .footer-inner .mobile .socmed ul li {
+	display: flex;
+	margin: 0px 8px;
+}
+
+.footer .footer-wrapper .footer-inner .mobile .socmed ul li img {
+	height: auto;
+	width: 32px;
+}
+
+.footer .footer-wrapper .footer-inner .mobile .socmed ul li:first-child {
+	margin: 0px 8px 0px 0px;
+}
+
+.footer .footer-wrapper .footer-inner .mobile .socmed ul li:nth-child(2) img {
+	width: 34px;
+}
+
+.footer .footer-wrapper .footer-inner .mobile .tnc-pp {
+	display: block;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 28px;
+	letter-spacing: 0.02em;
+	text-align: left;
+	margin-right: 30px;
+}
+
+.footer .footer-wrapper .footer-inner .mobile .tnc-pp a {
+	text-underline-position: under;
+	text-decoration: underline;
+	color: #1E1D1D;
+}
+
+.footer .footer-wrapper .footer-inner .mobile .copyright {
+	padding: 20px 0px 0px;
+	color: #1E1D1D;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 20px;
+	letter-spacing: 0em;
+	text-align: left;
+}

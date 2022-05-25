@@ -11,6 +11,9 @@ import WorkDescription from "./components/WorkDescription/WorkDescription";
 import TechStack from "./components/TechStack/TechStack";
 import About from "./components/About/About";
 import OurStory from "./components/OurStory/OurStory";
+import OurValues from "./components/OurValues/OurValues";
+
+import Footer from "./components/Footer/Footer";
 
 function App() {
 	return (
@@ -27,6 +30,9 @@ function App() {
 			<TechStack />
 			<About />
 			<OurStory />
+			<OurValues />
+
+			<Footer />
 		</div>
 	);
 }
