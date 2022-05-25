@@ -10,6 +10,7 @@ import Work from "./components/Work/Work";
 import WorkDescription from "./components/WorkDescription/WorkDescription";
 import TechStack from "./components/TechStack/TechStack";
 import About from "./components/About/About";
+import OurStory from "./components/OurStory/OurStory";
 
 function App() {
 	return (
@@ -25,6 +26,7 @@ function App() {
 			<WorkDescription />
 			<TechStack />
 			<About />
+			<OurStory />
 		</div>
 	);
 }

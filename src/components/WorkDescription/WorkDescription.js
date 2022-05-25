@@ -17,16 +17,16 @@ function WorkDescription() {
 					<div className="work-filter">
 						<div className="work-filter-wrapper">
 							<select className="form-control" name="capability" id="capability-focus-dropdown">
-								<option value="" disabled="" selected="">Filter by Capability Focus</option>
-								<option value=""> CX </option>
-								<option value=""> Communications </option>
-								<option value=""> Commerce </option>
-								<option value="">All</option>
+								<option value="/" disabled="" defaultValue="CX">Filter by Capability Focus</option>
+								<option value="CX"> CX </option>
+								<option value="Communications"> Communications </option>
+								<option value="Commerce"> Commerce </option>
+								<option value="All">All</option>
 							</select>
 						</div>
 						<div className="work-filter-wrapper">
 							<select className="form-control" name="services" id="services-dropdown">
-								<option value="" disabled="" selected="">Filter by Services</option>
+								<option value="" disabled="" defaultValue="">Filter by Services</option>
 								<option value=""> Brand Strategy </option>
 								<option value=""> Content Production </option>
 								<option value=""> Media </option>
