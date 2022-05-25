@@ -5,6 +5,7 @@ import Menu from "./components/Menu/Menu";
 import HomeBanner from "./components/HomeBanner/HomeBanner";
 import Services from "./components/Services/Services";
 import CapabilityFocus from "./components/CapabilityFocus/CapabilityFocus";
+import ServicesList from "./components/ServicesList/ServicesList";
 
 function App() {
 	return (
@@ -15,6 +16,7 @@ function App() {
 			<HomeBanner />
 			<Services />
 			<CapabilityFocus />
+			<ServicesList />
 		</div>
 	);
 }

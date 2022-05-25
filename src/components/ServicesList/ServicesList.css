@@ -1,0 +1,351 @@
+@media (max-width: 575.98px) {
+	#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-title span {
+		display: block !important;
+		text-align: center !important;
+		margin-left: unset !important;
+	}
+
+	#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-title span a {
+		line-height: unset !important;
+	}
+
+	#list-of-services .list-of-services-wrapper .list-of-services-image img {
+		width: 250px !important;
+	}
+
+	#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs {
+		display: inline-block !important;
+	}
+
+	#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs .related-work-holder .related-work-desc-wrapper {
+		margin-bottom: 20px !important;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+	#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-title span {
+		display: block !important;
+		text-align: center !important;
+		margin-left: unset !important;
+	}
+
+	#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-title span a {
+		line-height: unset !important;
+	}
+	#list-of-services .list-of-services-wrapper .list-of-services-image img {
+		width: 250px !important;
+	}
+
+	#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs {
+		display: inline-block !important;
+	}
+	#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs .related-work-holder .related-work-desc-wrapper {
+		margin-bottom: 20px !important;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	#list-of-services .list-of-services-wrapper .list-of-services-image img {
+		width: 300px !important;
+	}
+
+	#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs {
+		display: inline-block !important;
+	}
+	#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs .related-work-holder .related-work-desc-wrapper {
+		margin-bottom: 20px !important;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	#list-of-services .list-of-services-wrapper .list-of-services-image img {
+		width: 300px !important;
+	}
+
+	#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs {
+		display: inline-block !important;
+	}
+	#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs .related-work-holder .related-work-desc-wrapper {
+		margin-bottom: 20px !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	#list-of-services .list-of-services-wrapper .list-of-services-image img {
+		width: 500px !important;
+	}
+	#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs .related-work-holder .related-work-desc-wrapper {
+		margin-bottom: 20px !important;
+	}
+
+}
+
+
+#list-of-services .list-of-services-wrapper {
+	margin: 60px 0;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-image img {
+	width: 500px;
+	height: auto;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .nav-tabs {
+	border-bottom: unset !important;
+	margin: 20px 0;
+	justify-content: center;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .nav-tabs .nav-item .nav-link {
+	color: #ABABAB;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 13px;
+	line-height: 16.8px;
+	background-color: transparent;
+	border-color: unset !important;
+	border: unset !important;
+	border-radius: unset !important;
+	padding: .5rem;
+	text-transform: uppercase;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .nav-tabs .nav-item .active {
+	color: #FFFFFF;
+	background-color: transparent;
+	border-color: unset !important;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-title {
+	color: #FFFFFF;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 26px;
+	line-height: 36px;
+	margin-bottom: 30px;
+	text-transform: uppercase;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-2,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-3,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-4,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-5,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-6,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-7,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-8,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-9,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-10 {
+	display: flex;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items .card,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-2 .card,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-3 .card,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-4 .card,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-5 .card,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-6 .card,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-7 .card,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-8 .card,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-9 .card,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-10 .card {
+	background: linear-gradient(44.39deg, rgba(255, 255, 255, 0.2) -14.6%, rgba(255, 255, 255, 0.144) 65.55%), linear-gradient(173.32deg, #888888 -39.93%, rgba(182, 182, 182, 0) 100.91%);
+	box-shadow: 0px 1px 5px 0px rgba(186, 186, 186, 0.2);
+	margin: 0 10px;
+	width: 40%;
+	height: 550px;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items .card .card-body,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-2 .card .card-body,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-3 .card .card-body,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-4 .card .card-body,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-5 .card .card-body,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-6 .card .card-body,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-7 .card .card-body,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-8 .card .card-body,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-9 .card .card-body,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-10 .card .card-body {
+	padding: 3.5rem 1.25rem 1.25rem;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items .card .card-body .card-image,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-2 .card .card-body .card-image,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-3 .card .card-body .card-image,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-4 .card .card-body .card-image,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-5 .card .card-body .card-image,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-6 .card .card-body .card-image,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-7 .card .card-body .card-image,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-8 .card .card-body .card-image,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-9 .card .card-body .card-image,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-10 .card .card-body .card-image {
+	height: 100px;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items .card .card-body .card-image img,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-2 .card .card-body .card-image img,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-3 .card .card-body .card-image img,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-4 .card .card-body .card-image img,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-5 .card .card-body .card-image img,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-6 .card .card-body .card-image img,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-7 .card .card-body .card-image img,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-8 .card .card-body .card-image img,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-9 .card .card-body .card-image img,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-10 .card .card-body .card-image img {
+	margin: 0 auto;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items .card .card-body .card-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-2 .card .card-body .card-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-3 .card .card-body .card-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-4 .card .card-body .card-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-5 .card .card-body .card-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-6 .card .card-body .card-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-7 .card .card-body .card-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-8 .card .card-body .card-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-9 .card .card-body .card-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-10 .card .card-body .card-desc {
+	margin: 30px 0;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items .card .card-body .card-desc .card-inner-title,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-2 .card .card-body .card-desc .card-inner-title,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-3 .card .card-body .card-desc .card-inner-title,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-4 .card .card-body .card-desc .card-inner-title,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-5 .card .card-body .card-desc .card-inner-title,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-6 .card .card-body .card-desc .card-inner-title,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-7 .card .card-body .card-desc .card-inner-title,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-8 .card .card-body .card-desc .card-inner-title,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-9 .card .card-body .card-desc .card-inner-title,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-10 .card .card-body .card-desc .card-inner-title {
+	color: #FFFFFF;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 24px;
+	margin: 20px 0;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items .card .card-body .card-desc .card-inner-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-2 .card .card-body .card-desc .card-inner-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-3 .card .card-body .card-desc .card-inner-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-4 .card .card-body .card-desc .card-inner-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-5 .card .card-body .card-desc .card-inner-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-6 .card .card-body .card-desc .card-inner-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-7 .card .card-body .card-desc .card-inner-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-8 .card .card-body .card-desc .card-inner-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-9 .card .card-body .card-desc .card-inner-desc,
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .tab-items-10 .card .card-body .card-desc .card-inner-desc {
+	color: #FFFFFF;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work {
+	margin-top: 30px;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-title {
+	color: #FFFFFF;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 36px;
+	margin-bottom: 10px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-title span {
+	margin-left: 5%;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-title span a {
+	color: #F6C900;
+	text-transform: uppercase;
+	text-decoration: unset;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 70px;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs {
+	display: block;
+	text-align: center;
+	width: 100%;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs .related-work-holder {
+	margin: 0 20px 15px;
+	width: 230px;
+	display: inline-block;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs .related-work-holder .related-work-image {
+	border: 0.81px solid #636161;
+	width: 100%;
+	margin: 0 auto;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs .related-work-holder .related-work-image .bg-image {
+	background-size: cover;
+	background-position: center;
+	height: 150px;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs .related-work-holder .related-work-desc-wrapper {
+	margin: 0 -10px;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs .related-work-holder .related-work-desc-wrapper .related-work-title {
+	color: #F6C900;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 19px;
+	line-height: 27px;
+	margin: 10px 0;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs .related-work-holder .related-work-desc-wrapper .related-work-tags {
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: 700;
+	line-height: 0px;
+}
+
+#list-of-services .list-of-services-wrapper .list-of-services-tabs .tab-content .tab-pane .related-work .related-work-wrapper .related-work-tabs .related-work-holder .related-work-desc-wrapper .related-work-desc {
+	color: #FFFFFF;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 19px;
+}
+
+
+#mySelect {
+	border: 1px solid #B5BBC6;
+	border-radius: 4px;
+	background-color: transparent;
+	margin: 30px 0;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 28px;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+}
+
+#mySelect option {
+	color: #495057;
+	background-color: transparent;
+	border: 1px solid #B5BBC6;
+}
