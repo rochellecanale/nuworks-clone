@@ -1,0 +1,40 @@
+{
+	"companyDetails": {
+		"logo": {
+			"image": "./assets/images/NW-logo-white.png",
+			"name": "NUWORKS"
+		},
+		"socialMediaLinks": [
+			{
+				"url": "https://www.facebook.com/nuworks",
+				"label": "facebook",
+				"img": "./assets/images/Social/Vector.svg"
+			},
+			{
+				"url": "https://ph.linkedin.com/company/nuworksph",
+				"label": "linkedin",
+				"img": "./assets/images/Social/LI.svg"
+			},
+			{
+				"url": "https://www.instagram.com/nuworksph/",
+				"label": "instagram",
+				"img": "./assets/images/Social/instagram (7).svg"
+			},
+			{
+				"url": "https://twitter.com/nuworksph",
+				"label": "twitter",
+				"img": "./assets/images/Social/twitter (9).svg"
+			},
+			{
+				"url": "https://www.youtube.com/c/NuWorksInteractiveLabsIncPasig",
+				"label": "youtube",
+				"img": "./assets/images/Social/youtube (2).svg"
+			}
+		]
+	},
+	"floatingLoader": {
+		"image": "./assets/images/rotating-logo.gif",
+		"name": "rotating-logo",
+		"url": "/lets-connect-1"
+	}
+}
