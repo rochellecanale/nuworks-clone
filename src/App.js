@@ -8,6 +8,7 @@ import CapabilityFocus from "./components/CapabilityFocus/CapabilityFocus";
 import ServicesList from "./components/ServicesList/ServicesList";
 import Work from "./components/Work/Work";
 import WorkDescription from "./components/WorkDescription/WorkDescription";
+import TechStack from "./components/TechStack/TechStack";
 
 function App() {
 	return (
@@ -21,6 +22,7 @@ function App() {
 			<ServicesList />
 			<Work />
 			<WorkDescription />
+			<TechStack />
 		</div>
 	);
 }
