@@ -6,6 +6,7 @@ import HomeBanner from "./components/HomeBanner/HomeBanner";
 import Services from "./components/Services/Services";
 import CapabilityFocus from "./components/CapabilityFocus/CapabilityFocus";
 import ServicesList from "./components/ServicesList/ServicesList";
+import Work from "./components/Work/Work";
 
 function App() {
 	return (
@@ -17,6 +18,7 @@ function App() {
 			<Services />
 			<CapabilityFocus />
 			<ServicesList />
+			<Work />
 		</div>
 	);
 }
