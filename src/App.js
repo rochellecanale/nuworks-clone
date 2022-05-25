@@ -9,6 +9,7 @@ import ServicesList from "./components/ServicesList/ServicesList";
 import Work from "./components/Work/Work";
 import WorkDescription from "./components/WorkDescription/WorkDescription";
 import TechStack from "./components/TechStack/TechStack";
+import About from "./components/About/About";
 
 function App() {
 	return (
@@ -23,6 +24,7 @@ function App() {
 			<Work />
 			<WorkDescription />
 			<TechStack />
+			<About />
 		</div>
 	);
 }
