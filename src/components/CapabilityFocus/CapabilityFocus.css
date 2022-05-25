@@ -1,0 +1,114 @@
+@media (max-width: 575.98px) {
+	#capability-focus .capability-wrapper .middle .capability-title img {
+		width: 250px !important;
+	}
+	#capability-focus .capability-image {
+		margin-top: 30px;
+		text-align: center;
+	}
+	#capability-focus .capability-image img {
+		width: 250px !important;
+	}
+	#capability-focus .capability-wrapper .middle .capability-desc {
+		margin-left: unset !important;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+	#capability-focus .capability-wrapper .middle .capability-title img {
+		width: 250px !important;
+	}
+
+	#capability-focus .capability-image {
+		margin-top: 30px;
+	}
+
+	#capability-focus .capability-image img {
+		width: 250px !important;
+	}
+
+	#capability-focus .capability-wrapper .middle .capability-desc {
+		margin-left: unset !important;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	#capability-focus .capability-wrapper .middle .capability-title img {
+		width: 250px !important;
+	}
+
+	#capability-focus .capability-image {
+		margin-top: 30px;
+	}
+
+	#capability-focus .capability-image img {
+		width: 350px !important;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	#capability-focus .capability-wrapper .middle .capability-title img {
+		width: 250px !important;
+	}
+
+	#capability-focus .capability-image {
+		margin-top: 30px;
+	}
+
+	#capability-focus .capability-image img {
+		width: 450px !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	#capability-focus .capability-wrapper .middle .capability-title img {
+		width: 500px !important;
+	}
+
+	#capability-focus .capability-image {
+		margin-top: 30px;
+	}
+}
+
+
+#capability-focus .capability-wrapper {
+	display: table;
+	height: 100%;
+}
+
+#capability-focus .capability-wrapper .middle {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#capability-focus .capability-wrapper .middle .capability-title img {
+	width: 500px;
+	height: auto;
+}
+
+#capability-focus .capability-wrapper .middle .capability-desc {
+	width: 100%;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+
+#capability-focus .capability-wrapper .middle .capability-desc .mini-wrapper {
+	margin-bottom: 20px;
+}
+
+#capability-focus .capability-wrapper .middle .capability-desc .mini-wrapper .mini-title {
+	color: #F6C900;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 24px;
+	line-height: 32px;
+}
+
+#capability-focus .capability-wrapper .middle .capability-desc .mini-wrapper .mini-desc {
+	color: #E5E5E5;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 28px;
+}

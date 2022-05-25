@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Menu from "./components/Menu/Menu";
 import HomeBanner from "./components/HomeBanner/HomeBanner";
 import Services from "./components/Services/Services";
+import CapabilityFocus from "./components/CapabilityFocus/CapabilityFocus";
 
 function App() {
 	return (
@@ -13,6 +14,7 @@ function App() {
 			<Menu />
 			<HomeBanner />
 			<Services />
+			<CapabilityFocus />
 		</div>
 	);
 }
