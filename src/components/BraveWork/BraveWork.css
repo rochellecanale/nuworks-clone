@@ -1,0 +1,105 @@
+@media (max-width: 575.98px) {
+	#brave-work .brave-work-wrapper img {
+		width: 100% !important;
+		margin: 0 auto !important;
+	}
+
+	#brave-work .brave-work-wrapper .brave-work-buttons a {
+		margin-right: unset !important;
+		margin-left: unset !important;
+	}
+
+	#brave-work .brave-work-wrapper .brave-work-buttons a button {
+		font-size: 24px !important;
+		line-height: 29px !important;
+		width: 90% !important;
+	}
+
+	#brave-work .brave-work-wrapper .brave-work-buttons a button span {
+		font-size: 12px !important;
+		line-height: 14px !important;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+	#brave-work .brave-work-wrapper img {
+		width: 100% !important;
+		margin: 0 auto !important;
+	}
+
+	#brave-work .brave-work-wrapper .brave-work-buttons a {
+		margin-right: unset !important;
+		margin-left: unset !important;
+	}
+
+	#brave-work .brave-work-wrapper .brave-work-buttons a button {
+		font-size: 24px !important;
+		line-height: 29px !important;
+		width: 90% !important;
+	}
+
+	#brave-work .brave-work-wrapper .brave-work-buttons a button span {
+		font-size: 12px !important;
+		line-height: 14px !important;
+	}
+}
+
+
+#brave-work {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+#brave-work .brave-work-wrapper {
+	text-align: center;
+}
+
+#brave-work .brave-work-wrapper img {
+	height: auto;
+	width: 80%;
+	margin: 0 auto;
+}
+
+#brave-work .brave-work-wrapper .brave-work-buttons {
+	margin-top: 70px;
+}
+
+#brave-work .brave-work-wrapper .brave-work-buttons a {
+	color: #1E1D1D;
+	text-decoration: none;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+#brave-work .brave-work-wrapper .brave-work-buttons a button {
+	border: unset !important;
+	background-color: #F6C900;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 43px;
+	letter-spacing: 0em;
+	clip-path: polygon(14px 0%, 100% 0%, calc(100% - 14px) 100%, 0% 100%);
+	width: 400px;
+	height: auto;
+	margin-bottom: 30px;
+	padding: 10px 0px;
+}
+
+#brave-work .brave-work-wrapper .brave-work-buttons a button:focus {
+	outline: unset !important;
+}
+
+#brave-work .brave-work-wrapper .brave-work-buttons a button:hover {
+	background-color: #FFFFFF;
+}
+
+#brave-work .brave-work-wrapper .brave-work-buttons a button span {
+	display: block;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 19px;
+	letter-spacing: 0em;
+	text-align: center;
+}

@@ -142,3 +142,9 @@
 #our-values .our-values-wrapper .our-works-carousel .our-works-event {
 	margin: 40px 0 50px;
 }
+
+.divider {
+	width: 70%;
+	margin: 30px auto 0;
+	border-bottom: 1px dashed #FFFFFF;
+}

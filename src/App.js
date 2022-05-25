@@ -13,6 +13,7 @@ import About from "./components/About/About";
 import OurStory from "./components/OurStory/OurStory";
 import OurValues from "./components/OurValues/OurValues";
 
+import BraveWork from "./components/BraveWork/BraveWork";
 import Footer from "./components/Footer/Footer";
 
 function App() {
@@ -31,7 +32,8 @@ function App() {
 			<About />
 			<OurStory />
 			<OurValues />
-
+			
+			<BraveWork />
 			<Footer />
 		</div>
 	);

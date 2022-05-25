@@ -1,3 +1,8 @@
 .open {
 	display: block !important;
 }
+.divider {
+	width: 70%;
+	margin: 30px auto 0;
+	border-bottom: 1px dashed #FFFFFF;
+}
