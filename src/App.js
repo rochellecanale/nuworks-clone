@@ -7,6 +7,7 @@ import Services from "./components/Services/Services";
 import CapabilityFocus from "./components/CapabilityFocus/CapabilityFocus";
 import ServicesList from "./components/ServicesList/ServicesList";
 import Work from "./components/Work/Work";
+import WorkDescription from "./components/WorkDescription/WorkDescription";
 
 function App() {
 	return (
@@ -19,6 +20,7 @@ function App() {
 			<CapabilityFocus />
 			<ServicesList />
 			<Work />
+			<WorkDescription />
 		</div>
 	);
 }
