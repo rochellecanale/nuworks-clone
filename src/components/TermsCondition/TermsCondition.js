@@ -1,15 +1,12 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 function TermsCondition() {
 	return (
 		<div className="tnc-pp">
-			<a href="/terms-and-conditions/">
-				Terms and Conditions
-			</a>
+			<Link to="/terms-and-conditions">Terms and Conditions</Link>
 			&nbsp; | &nbsp;
-			<a href="/privacy-policy/">
-				Privacy Policy
-			</a>
+			<Link to="/privacy-policy">Privacy Policy</Link>
 		</div>
 	)
 }

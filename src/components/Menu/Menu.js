@@ -1,5 +1,7 @@
 /* eslint-disable */
 import React, { useEffect } from 'react'
+import { Link } from 'react-router-dom'
+
 import './Menu.css'
 
 import SocialMediaLinks from '../SocialMediaLinks/SocialMediaLinks'
@@ -36,11 +38,21 @@ function Menu() {
 				<div className="menu-list">
 					<div className="menu-inner">
 						<ul>
-							<li><a href="#services-inner">Our Services</a></li>
-							<li><a href="#work">Our Work</a></li>
-							<li><a href="#about">About nuworks</a></li>
-							<li><a href="/join-the-team/">Be One of Us</a></li>
-							<li><a href="/lets-connect/">Let's Connect</a></li>
+							<li>
+								<Link to="/">Our Services</Link>
+							</li>
+							<li>
+								<Link to="/">Our Work</Link>
+							</li>
+							<li>
+								<Link to="/">About nuworks</Link>
+							</li>
+							<li>
+								<Link to="/">Be One of Us</Link>
+							</li>
+							<li>
+								<Link to="/">Let's Connect</Link>
+							</li>
 						</ul>
 					</div>
 				</div>

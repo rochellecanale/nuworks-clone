@@ -6,3 +6,98 @@
 	margin: 30px auto 0;
 	border-bottom: 1px dashed #FFFFFF;
 }
+
+/* Privacy Policy */
+
+#privacy-policy {
+	min-height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+#privacy-policy .innerpage-wrapper {
+	flex-shrink: 0;
+	flex-grow: 1;
+}
+
+#privacy-policy .innerpage-wrapper .innerpage-content {
+	margin-top: 50px;
+}
+
+#privacy-policy .innerpage-wrapper .innerpage-content .innerpage-content-title {
+	text-align: left;
+	margin-top: 100px;
+}
+
+#privacy-policy .innerpage-wrapper .innerpage-content .innerpage-content-title .content-title-img img {
+	height: auto;
+	width: 50%;
+}
+
+#privacy-policy .innerpage-wrapper .innerpage-content .innerpage-descriptions {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#privacy-policy .innerpage-wrapper .innerpage-content .innerpage-descriptions .innerpage-content-info-2 .content-info-list-2 .content-info {
+	margin-bottom: 30px;
+}
+
+#privacy-policy .innerpage-wrapper .innerpage-content .innerpage-descriptions .innerpage-content-info-2 .content-info-list-2 .content-info .content-info-title {
+	color: #F6C900;
+	text-transform: uppercase;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 32px;
+	letter-spacing: 0.01em;
+	text-align: left;
+}
+
+#privacy-policy .innerpage-wrapper .innerpage-content .innerpage-descriptions .innerpage-content-info-2 .content-info-list-2 .content-info .content-info-tag {
+	color: #FFFFFF;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: 900;
+	line-height: 19px;
+	letter-spacing: 0em;
+	text-align: left;
+}
+
+#privacy-policy .innerpage-wrapper .innerpage-content .innerpage-descriptions .innerpage-content-info-2 .content-info-list-2 .content-info .content-info-tag a {
+	color: #FFFFFF;
+	text-underline-position: under;
+}
+
+#privacy-policy .innerpage-wrapper .innerpage-content .innerpage-descriptions .innerpage-content-desc .content-info-wrapper {
+	margin-bottom: 30px;
+}
+
+#privacy-policy .innerpage-wrapper .innerpage-content .innerpage-descriptions .innerpage-content-desc .content-info-wrapper .content-info-head {
+	color: #FFFFFF;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 32px;
+	letter-spacing: 0.01em;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+#privacy-policy .innerpage-wrapper .innerpage-content .innerpage-descriptions .innerpage-content-desc .content-info-wrapper .content-info-text {
+	color: #FFFFFF;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 28px;
+	letter-spacing: 0em;
+	text-align: left;
+}
+
+#privacy-policy .innerpage-wrapper .innerpage-content .innerpage-descriptions .innerpage-content-desc .content-info-wrapper .content-info-text .content-info-tnc li {
+	font-weight: 900;
+}
+
+#privacy-policy .innerpage-wrapper .innerpage-content .innerpage-descriptions .innerpage-content-desc .content-info-wrapper .content-info-text .content-info-tnc li p {
+	font-weight: 400;
+}
