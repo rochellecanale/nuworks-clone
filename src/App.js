@@ -12,14 +12,16 @@ import TechStack from "./components/TechStack/TechStack";
 import About from "./components/About/About";
 import OurStory from "./components/OurStory/OurStory";
 import OurValues from "./components/OurValues/OurValues";
-
+import OurPartners from "./components/OurPartners/OurPartners";
+import OurAwards from "./components/OurAwards/OurAwards";
+import OurAffiliations from "./components/OurAffiliations/OurAffiliations";
 import BraveWork from "./components/BraveWork/BraveWork";
 import Footer from "./components/Footer/Footer";
 
 function App() {
 	return (
 		<div className="App">
-			<FloatingLogo name={globalData.floatingLoader.name} url={globalData.floatingLoader.url} image={globalData.floatingLoader.image} />
+			<FloatingLogo name={ globalData.floatingLoader.name } url={ globalData.floatingLoader.url } image={ globalData.floatingLoader.image } />
 			<Navbar />
 			<Menu />
 			<HomeBanner />
@@ -32,7 +34,9 @@ function App() {
 			<About />
 			<OurStory />
 			<OurValues />
-			
+			<OurPartners />
+			<OurAwards />
+			<OurAffiliations />
 			<BraveWork />
 			<Footer />
 		</div>

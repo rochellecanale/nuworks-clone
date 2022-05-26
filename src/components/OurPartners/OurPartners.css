@@ -1,0 +1,84 @@
+@media (max-width: 575.98px) {
+	#our-partners .our-partners-wrapper .our-partners-title img {
+		width: 250px !important;
+	}
+	#our-partners .our-partners-wrapper .our-partners-inner {
+		margin-top: 10px !important;
+	}
+	#our-partners .our-partners-wrapper .our-partners-list .our-partner .our-partner-inner img {
+		width: 90px !important;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+	#our-partners .our-partners-wrapper .our-partners-title img {
+		width: 250px !important;
+	}
+	#our-partners .our-partners-wrapper .our-partners-inner {
+		margin-top: 10px !important;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	#our-partners .our-partners-wrapper .our-partners-title img {
+		width: 300px !important;
+	}
+	#our-partners .our-partners-wrapper .our-partners-inner {
+		margin-top: 10px !important;
+	}
+	#our-partners .our-partners-wrapper .our-partners-title img {
+		width: 300px !important;
+	}
+	#our-partners .our-partners-wrapper .our-partners-inner {
+		margin-top: 10px !important;
+	}
+	#our-partners .our-partners-wrapper .our-partners-title img {
+		width: 450px !important;
+	}
+	#our-partners .our-partners-wrapper .our-partners-inner {
+		margin-top: 10px !important;
+	}
+}
+
+
+#our-partners .our-partners-wrapper .our-partners-title img {
+	width: 450px;
+	height: auto;
+}
+
+#our-partners .our-partners-wrapper .our-partners-inner {
+	display: table;
+	height: 100%;
+}
+
+#our-partners .our-partners-wrapper .our-partners-inner .our-partners-bottom {
+	display: table-cell;
+	vertical-align: bottom;
+}
+
+#our-partners .our-partners-wrapper .our-partners-inner .our-partners-bottom .our-partners-text {
+	color: #CCCCCC;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 28px;
+}
+
+#our-partners .our-partners-wrapper .our-partners-list {
+	margin: 40px 0;
+	text-align: center;
+	max-width: 1190px;
+}
+
+#our-partners .our-partners-wrapper .our-partners-list .our-partner {
+	display: inline-block;
+}
+
+#our-partners .our-partners-wrapper .our-partners-list .our-partner .our-partner-inner {
+	margin: 10px 10px 20px;
+}
+
+#our-partners .our-partners-wrapper .our-partners-list .our-partner .our-partner-inner img {
+	height: auto;
+	width: 100px;
+}

@@ -1,0 +1,30 @@
+[
+	{
+		"image": "./assets/images/Affiliation/Media - Google Partner.png",
+		"name": "Media - Google Partner"	
+	},
+	{
+		"image": "./assets/images/Affiliation/Media - Facebook Partner.png",
+		"name": "Media - Facebook Partner"	
+	},
+	{
+		"image": "./assets/images/Affiliation/Industry - 4As.png",
+		"name": "Industry - 4As"	
+	},
+	{
+		"image": "./assets/images/Affiliation/Industry - IMMAP.png",
+		"name": "Industry - IMMAP"	
+	},
+	{
+		"image": "./assets/images/Affiliation/Industry - PANA.png",
+		"name": "Industry - PANA"	
+	},
+	{
+		"image": "./assets/images/Affiliation/Industry - CPHG.png",
+		"name": "Industry - CPHG"	
+	},
+	{
+		"image": "./assets/images/Affiliation/Interaction Design Foundation.png",
+		"name": "Interaction Design Foundation"	
+	}
+]

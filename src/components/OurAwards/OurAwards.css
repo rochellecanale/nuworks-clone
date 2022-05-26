@@ -1,0 +1,164 @@
+@media (max-width: 575.98px) {
+	#our-awards .our-awards-wrapper .our-awards-title img {
+		width: 300px !important;
+	}
+	#our-awards .our-awards-wrapper .our-awards-inner .our-awards-bottom .our-awards-text {
+		margin-top: 10px !important;
+		text-align: left !important;
+	}
+	#our-awards .our-awards-wrapper .our-awards-title {
+		text-align: left !important;
+	}
+	#our-awards .our-awards-wrapper .our-awards-title img {
+		width: 250px !important;
+	}
+	#our-awards .our-awards-wrapper .our-award-list {
+		width: 100% !important;
+	}
+	#our-awards .our-awards-wrapper .our-award-list .our-award {
+		margin: 10px !important;
+	}
+	#our-awards .our-awards-wrapper .our-award-list .our-award .our-award-inner img {
+		width: 130px !important;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+	#our-awards .our-awards-wrapper .our-awards-title {
+		text-align: left !important;
+	}
+	#our-awards .our-awards-wrapper .our-awards-title img {
+		width: 250px !important;
+	}
+	#our-awards .our-awards-wrapper .our-awards-inner .our-awards-bottom .our-awards-text {
+		margin-top: 10px !important;
+		text-align: left !important;
+	}
+	#our-awards .our-awards-wrapper .our-award-list {
+		width: 100% !important;
+	}
+
+	#our-awards .our-awards-wrapper .our-award-list .our-award {
+		margin: 10px !important;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	#our-awards .our-awards-wrapper .our-awards-title {
+		text-align: left !important;
+	}
+	#our-awards .our-awards-wrapper .our-awards-title img {
+		width: 300px !important;
+	}
+	#our-awards .our-awards-wrapper .our-awards-inner .our-awards-bottom .our-awards-text {
+		margin-top: 10px !important;
+		text-align: left !important;
+	}
+	#our-awards .our-awards-wrapper .our-award-list {
+		width: 100% !important;
+	}
+
+	#our-awards .our-awards-wrapper .our-award-list .our-award {
+		margin: 10px !important;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	#our-awards .our-awards-wrapper .our-awards-title {
+		text-align: left !important;
+	}
+
+	#our-awards .our-awards-wrapper .our-awards-title img {
+		width: 300px !important;
+	}
+	#our-awards .our-awards-wrapper .our-awards-inner .our-awards-bottom .our-awards-text {
+		margin-top: 10px !important;
+		text-align: left !important;
+	}
+	#our-awards .our-awards-wrapper .our-award-list {
+		width: 100% !important;
+	}
+
+	#our-awards .our-awards-wrapper .our-award-list .our-award {
+		margin: 10px !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	#our-awards .our-awards-wrapper .our-awards-title {
+		text-align: left !important;
+	}
+
+	#our-awards .our-awards-wrapper .our-awards-title img {
+		width: 450px !important;
+	}
+	#our-awards .our-awards-wrapper .our-awards-inner .our-awards-bottom .our-awards-text {
+		margin-top: 10px !important;
+	}
+	#our-awards .our-awards-wrapper .our-award-list {
+		width: 100% !important;
+	}
+
+	#our-awards .our-awards-wrapper .our-award-list .our-award {
+		margin: 10px !important;
+	}
+}
+
+
+#our-awards .our-awards-wrapper .our-awards-title img {
+	width: 450px;
+	height: auto;
+}
+
+#our-awards .our-awards-wrapper .our-awards-inner {
+	display: table;
+	height: 100%;
+}
+
+#our-awards .our-awards-wrapper .our-awards-inner .our-awards-bottom {
+	display: table-cell;
+	vertical-align: bottom;
+}
+
+#our-awards .our-awards-wrapper .our-awards-inner .our-awards-bottom .our-awards-text {
+	color: #CCCCCC;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 28px;
+}
+
+#our-awards .our-awards-wrapper .our-award-list {
+	width: 100%;
+	margin: 40px auto;
+	text-align: center;
+}
+
+#our-awards .our-awards-wrapper .our-award-list .our-award {
+	display: inline-block;
+	margin: 20px;
+}
+
+#our-awards .our-awards-wrapper .our-award-list .our-award .our-award-inner {
+	margin: 10px 10px 20px;
+}
+
+#our-awards .our-awards-wrapper .our-award-list .our-award .our-award-inner img {
+	height: auto;
+	width: 120px;
+}
+
+#our-awards .our-awards-wrapper .our-award-list .our-award .yt-works img {
+	height: auto;
+	width: 200px !important;
+}
+
+#our-awards .our-awards-wrapper .our-award-list .our-award .ad-stars img {
+	height: auto;
+	width: 90px !important;
+}
+
+#our-awards .our-awards-wrapper .our-award-list .our-award .araw img {
+	height: auto;
+	width: 90px !important;
+}

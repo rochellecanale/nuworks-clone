@@ -1,0 +1,203 @@
+@media (max-width: 575.98px) {
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .google-partner img {
+		width: 140px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .facebook-partner img {
+		width: 120px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .i4as img {
+		width: 120px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .immap img {
+		width: 140px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .pana img {
+		width: 110px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .cphg img {
+		width: 150px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .idf img {
+		width: 170px !important;
+	}
+	#our-affiliations .our-affiliations-wrapper .our-affiliations-title img {
+		width: 300px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliations-inner .our-affiliations-bottom .our-affiliations-text {
+		margin-top: 10px !important;
+		text-align: left !important;
+	}
+	#our-affiliations .our-affiliations-wrapper .our-affiliations-title img {
+		width: 250px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list {
+		width: 100% !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation {
+		margin: 10px !important;
+	}
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .google-partner img {
+		width: 140px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .facebook-partner img {
+		width: 120px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .i4as img {
+		width: 120px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .immap img {
+		width: 140px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .pana img {
+		width: 110px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .cphg img {
+		width: 150px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .idf img {
+		width: 170px !important;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .google-partner img {
+		width: 140px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .facebook-partner img {
+		width: 120px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .i4as img {
+		width: 120px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .immap img {
+		width: 140px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .pana img {
+		width: 110px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .cphg img {
+		width: 150px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .idf img {
+		width: 170px !important;
+	}
+	#our-affiliations .our-affiliations-wrapper .our-affiliations-title img {
+		width: 300px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliations-inner .our-affiliations-bottom .our-affiliations-text {
+		margin-top: 10px !important;
+		text-align: left !important;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	#our-affiliations .our-affiliations-wrapper .our-affiliations-title img {
+		width: 300px !important;
+	}
+
+	#our-affiliations .our-affiliations-wrapper .our-affiliations-inner .our-affiliations-bottom .our-affiliations-text {
+		margin-top: 10px !important;
+		text-align: left !important;
+	}
+}
+
+
+#our-affiliations .our-affiliations-wrapper .our-affiliations-title img {
+	width: 450px;
+	height: auto;
+}
+
+#our-affiliations .our-affiliations-wrapper .our-affiliations-inner {
+	display: table;
+	height: 100%;
+}
+
+#our-affiliations .our-affiliations-wrapper .our-affiliations-inner .our-affiliations-bottom {
+	display: table-cell;
+	vertical-align: bottom;
+}
+
+#our-affiliations .our-affiliations-wrapper .our-affiliations-inner .our-affiliations-bottom .our-affiliations-text {
+	color: #CCCCCC;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 28px;
+}
+
+#our-affiliations .our-affiliations-wrapper .our-affiliation-list {
+	width: 100%;
+	margin: 40px auto;
+	text-align: center;
+	max-width: 1150px;
+}
+
+#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation {
+	display: inline-block;
+	margin: 20px 30px;
+}
+
+#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .our-affiliation-inner {
+	margin: 10px 10px 20px;
+}
+
+#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .google-partner img {
+	height: auto;
+	width: 160px;
+}
+
+#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .facebook-partner img {
+	height: auto;
+	width: 140px;
+}
+
+#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .i4as img {
+	height: auto;
+	width: 150px;
+}
+
+#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .immap img {
+	height: auto;
+	width: 160px;
+}
+
+#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .pana img {
+	height: auto;
+	width: 130px;
+}
+
+#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .cphg img {
+	height: auto;
+	width: 170px;
+}
+
+#our-affiliations .our-affiliations-wrapper .our-affiliation-list .our-affiliation .idf img {
+	height: auto;
+	width: 170px;
+}
