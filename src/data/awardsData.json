@@ -15,48 +15,57 @@
 		"image": "./assets/images/Awards/4As AOY.png",
 		"name": "4As AOY"
 	},
-
 	{
-		"image": "./assets/images/Awards/Campaign AOY Gold.png",
-		"name": "Campaign AOY Gold"
+		"image": "./assets/images/Awards/Asia eCommerce.png",
+		"name": "Asia eCommerce"
 	},
 	{
-		"image": "./assets/images/Awards/Campaign AOY Silver.png",
-		"name": "Campaign AOY Silver"
+		"image": "./assets/images/Awards/Festival of Media.png",
+		"name": "Festival of Media"
 	},
 	{
-		"image": "./assets/images/Awards/R3.png",
-		"name": "R3"
+		"image": "./assets/images/Awards/Ad Stars.png",
+		"name": "Ad Stars"
 	},
 	{
-		"image": "./assets/images/Awards/4As AOY.png",
-		"name": "4As AOY"
-	},
-
-	{
-		"image": "./assets/images/Awards/Campaign AOY Gold.png",
-		"name": "Campaign AOY Gold"
+		"image": "./assets/images/Awards/AdFest.png",
+		"name": "AdFest"
 	},
 	{
-		"image": "./assets/images/Awards/Campaign AOY Silver.png",
-		"name": "Campaign AOY Silver"
+		"image": "./assets/images/Awards/Araw.png",
+		"name": "Araw"
 	},
 	{
-		"image": "./assets/images/Awards/R3.png",
-		"name": "R3"
+		"image": "./assets/images/Awards/Kidlat.png",
+		"name": "Kidlat"
 	},
 	{
-		"image": "./assets/images/Awards/4As AOY.png",
-		"name": "4As AOY"
-	},
-	
-	
-	{
-		"image": "./assets/images/Awards/Campaign AOY Gold.png",
-		"name": "Campaign AOY Gold"
+		"image": "./assets/images/Awards/Tambuli.png",
+		"name": "Tambuli"
 	},
 	{
-		"image": "./assets/images/Awards/Campaign AOY Silver.png",
-		"name": "Campaign AOY Silver"
+		"image": "./assets/images/Awards/Boomerang Awards.png",
+		"name": "Boomerang Awards"
+	},
+	{
+		"image": "./assets/images/Awards/MSAP ICE.png",
+		"name": "MSAP ICE"
+	},
+	{
+		"image": "./assets/images/Awards/PANATA Awards.png",
+		"name": "PANATA Awards"
+	},
+	{
+		"image": "./assets/images/Awards/Quill.png",
+		"name": "Quill"
+	},
+	{
+		"image": "./assets/images/Awards/YT Awards.png",
+		"name": "YT Awards"
+	},
+	{
+		"image": "./assets/images/Awards/YT Works.png",
+		"name": "YT Works"
 	}
+
 ]

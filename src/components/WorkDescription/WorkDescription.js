@@ -1,5 +1,6 @@
 import React from 'react'
 import './WorkDescription.css'
+import worksData from '../../data/worksData.json'
 
 function WorkDescription() {
 	return (
@@ -11,7 +12,6 @@ function WorkDescription() {
 							From "to", we "DO". We have prided ourselves by our work that not only move the needle, but
 							because it helps move the gears of economy. Through our work, we do help fulfill the needs of
 							our clients, of people. This is what we do, these are some of the work we have done.
-
 						</div>
 					</div>
 					<div className="work-filter">
@@ -44,62 +44,26 @@ function WorkDescription() {
 					<div className="related-work-tabs">
 
 						<div className="related-work-ajax">
-							<div className="related-work-holder">
-								<a href="/">
-									<div className="related-work-image">
-										<div 
-											className="bg-image"
-											style={{ backgroundImage: "URL('./assets/images/Works/image_15.jpg')" }}
-										></div>
+
+							{
+								worksData.map((work, index) => (
+									<div className="related-work-holder" key={ index }>
+										<a href="/">
+											<div className="related-work-image">
+												<div
+													className="bg-image"
+													style={{ backgroundImage: `URL(${ work.image })` }}
+												></div>
+											</div>
+											<div className="related-work-desc-wrapper">
+												<div className="related-work-title">{ work.title }</div>
+												<div className="related-work-tags">{ work.tag }</div>
+											</div>
+										</a>
 									</div>
-									<div className="related-work-desc-wrapper">
-										<div className="related-work-title">PMFTC Appwards</div>
-										<div className="related-work-tags">CX</div>
-									</div>
-								</a>
-							</div>
-							<div className="related-work-holder">
-								<a href="/">
-									<div className="related-work-image">
-										<div 
-											className="bg-image"
-											style={{ backgroundImage: "URL('./assets/images/Works/image_17.png')" }}
-										></div>
-									</div>
-									<div className="related-work-desc-wrapper">
-										<div className="related-work-title">Ingat Angat</div>
-										<div className="related-work-tags">CX</div>
-									</div>
-								</a>
-							</div>
-							<div className="related-work-holder">
-								<a href="/">
-									<div className="related-work-image">
-										<div 
-											className="bg-image"
-											style={{ backgroundImage: "URL('./assets/images/Works/image_9.jpg')" }}
-										></div>
-									</div>
-									<div className="related-work-desc-wrapper">
-										<div className="related-work-title">Swift Meat E-tindahan</div>
-										<div className="related-work-tags">Commerce</div>
-									</div>
-								</a>
-							</div>
-							<div className="related-work-holder">
-								<a href="/">
-									<div className="related-work-image">
-										<div 
-											className="bg-image"
-											style={{ backgroundImage: "URL('./assets/images/Works/image_16.jpg')" }}
-										></div>
-									</div>
-									<div className="related-work-desc-wrapper">
-										<div className="related-work-title">Avida Live Ready</div>
-										<div className="related-work-tags">Communications</div>
-									</div>
-								</a>
-							</div>
+								))
+							}
+
 						</div>
 					</div>
 

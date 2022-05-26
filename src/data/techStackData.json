@@ -16,53 +16,51 @@
 		"label": "04 MongoDB"
 	},
 	{
-		"image": "./assets//images/Stack/04 MongoDB.png",
-		"label": "04 MongoDB"
-	},
-
-	{
-		"image": "./assets/images/Stack/01 Digital Ocean.png",
-		"label": "01 Digital Ocean"
+		"image": "./assets//images/Stack/05 PostgreSQL.png",
+		"label": "05 PostgreSQL"
 	},
 	{
-		"image": "./assets/images/Stack/02 AWS.png",
-		"label": "02 AWS"
+		"image": "./assets//images/Stack/06 Nginx.png",
+		"label": "06 Nginx"
 	},
 	{
-		"image": "./assets/images/Stack/03 MySQL.png",
-		"label": "03 MySQL"
+		"image": "./assets//images/Stack/07 PHP.png",
+		"label": "07 PHP"
 	},
 	{
-		"image": "./assets//images/Stack/04 MongoDB.png",
-		"label": "04 MongoDB"
+		"image": "./assets//images/Stack/08 Cloudflare.png",
+		"label": "08 Cloudflare"
 	},
 	{
-		"image": "./assets//images/Stack/04 MongoDB.png",
-		"label": "04 MongoDB"
-	},
-
-	{
-		"image": "./assets/images/Stack/01 Digital Ocean.png",
-		"label": "01 Digital Ocean"
+		"image": "./assets//images/Stack/09 Magento.png",
+		"label": "09 Magento"
 	},
 	{
-		"image": "./assets/images/Stack/02 AWS.png",
-		"label": "02 AWS"
+		"image": "./assets//images/Stack/10 Moodle.png",
+		"label": "10 Moodle"
 	},
 	{
-		"image": "./assets/images/Stack/03 MySQL.png",
-		"label": "03 MySQL"
+		"image": "./assets//images/Stack/11 WordPress.png",
+		"label": "11 WordPress"
 	},
 	{
-		"image": "./assets//images/Stack/04 MongoDB.png",
-		"label": "04 MongoDB"
+		"image": "./assets//images/Stack/12 SuiteCRM.png",
+		"label": "12 SuiteCRM"
 	},
 	{
-		"image": "./assets//images/Stack/04 MongoDB.png",
-		"label": "04 MongoDB"
+		"image": "./assets//images/Stack/13 Drupal.png",
+		"label": "13 Drupal"
 	},
 	{
-		"image": "./assets//images/Stack/04 MongoDB.png",
-		"label": "04 MongoDB"
+		"image": "./assets//images/Stack/14 Django.png",
+		"label": "14 Django"
+	},
+	{
+		"image": "./assets//images/Stack/15 Python.png",
+		"label": "15 Python"
+	},
+	{
+		"image": "./assets//images/Stack/16 Laravel.png",
+		"label": "16 Laravel"
 	}
 ]

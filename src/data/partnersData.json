@@ -15,103 +15,97 @@
 		"image": "./assets/images/Partners/Coke.png",
 		"name": "coke"
 	},
-
 	{
-		"image": "./assets/images/Partners/smb.png",
-		"name": "smb"
+		"image": "./assets/images/Partners/Avida.png",
+		"name": "avida"
 	},
 	{
-		"image": "./assets/images/Partners/Unilever.png",
-		"name": "unilever"
+		"image": "./assets/images/Partners/bdo.png",
+		"name": "bdo"
 	},
 	{
-		"image": "./assets/images/Partners/Nestle.png",
-		"name": "nestle"
+		"image": "./assets/images/Partners/Petron.png",
+		"name": "petron"
 	},
 	{
-		"image": "./assets/images/Partners/Coke.png",
-		"name": "coke"
-	},
-
-	{
-		"image": "./assets/images/Partners/smb.png",
-		"name": "smb"
+		"image": "./assets/images/Partners/unicef.png",
+		"name": "unicef"
 	},
 	{
-		"image": "./assets/images/Partners/Unilever.png",
-		"name": "unilever"
+		"image": "./assets/images/Partners/Cignal Play.png",
+		"name": "cignal-play"
 	},
 	{
-		"image": "./assets/images/Partners/Nestle.png",
-		"name": "nestle"
+		"image": "./assets/images/Partners/jollibee.png",
+		"name": "jollibee"
 	},
 	{
-		"image": "./assets/images/Partners/Coke.png",
-		"name": "coke"
-	},
-
-	{
-		"image": "./assets/images/Partners/smb.png",
-		"name": "smb"
+		"image": "./assets/images/Partners/Burger King.png",
+		"name": "burking-king"
 	},
 	{
-		"image": "./assets/images/Partners/Unilever.png",
-		"name": "unilever"
+		"image": "./assets/images/Partners/Greenwich.png",
+		"name": "greenwhich"
 	},
 	{
-		"image": "./assets/images/Partners/Nestle.png",
-		"name": "nestle"
+		"image": "./assets/images/Partners/Maggi.png",
+		"name": "maggi"
 	},
 	{
-		"image": "./assets/images/Partners/Coke.png",
-		"name": "coke"
-	},
-
-	{
-		"image": "./assets/images/Partners/smb.png",
-		"name": "smb"
+		"image": "./assets/images/Partners/Mercedes Benz.png",
+		"name": "mercedes-benz"
 	},
 	{
-		"image": "./assets/images/Partners/Unilever.png",
-		"name": "unilever"
+		"image": "./assets/images/Partners/AstraZeneca.png",
+		"name": "aztrazenice"
 	},
 	{
-		"image": "./assets/images/Partners/Nestle.png",
-		"name": "nestle"
+		"image": "./assets/images/Partners/Rockwell Land.png",
+		"name": "rockwell"
 	},
 	{
-		"image": "./assets/images/Partners/Coke.png",
-		"name": "coke"
-	},
-
-	{
-		"image": "./assets/images/Partners/smb.png",
-		"name": "smb"
+		"image": "./assets/images/Partners/iPeople.png",
+		"name": "ipeople"
 	},
 	{
-		"image": "./assets/images/Partners/Unilever.png",
-		"name": "unilever"
+		"image": "./assets/images/Partners/CECP.png",
+		"name": "cecp"
 	},
 	{
-		"image": "./assets/images/Partners/Nestle.png",
-		"name": "nestle"
+		"image": "./assets/images/Partners/San Mig Coffee.png",
+		"name": "san-mig-coffee"
 	},
 	{
-		"image": "./assets/images/Partners/Coke.png",
-		"name": "coke"
-	},
-
-	{
-		"image": "./assets/images/Partners/smb.png",
-		"name": "smb"
+		"image": "./assets/images/Partners/Argentina.png",
+		"name": "argentina"
 	},
 	{
-		"image": "./assets/images/Partners/Unilever.png",
-		"name": "unilever"
+		"image": "./assets/images/Partners/Swift.png",
+		"name": "swift"
 	},
 	{
-		"image": "./assets/images/Partners/Nestle.png",
-		"name": "nestle"
+		"image": "./assets/images/Partners/Century Pacific.png",
+		"name": "century-pacific"
+	},
+	{
+		"image": "./assets/images/Partners/Resorts World.png",
+		"name": "resorts-world"
+	},
+	{
+		"image": "./assets/images/Partners/Alveo.png",
+		"name": "alveo"
+	},
+	{
+		"image": "./assets/images/Partners/Lazada.png",
+		"name": "lazada"
+	},
+	{
+		"image": "./assets/images/Partners/PMFTC.png",
+		"name": "PMFTC"
+	},
+	{
+		"image": "./assets/images/Partners/Uratex.png",
+		"name": "uratex"
 	}
 
 ]

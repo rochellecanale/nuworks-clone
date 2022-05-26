@@ -1,4 +1,7 @@
+
 import globalData from "./data/globalData"
+
+/* Home Components */
 import FloatingLogo from "./components/FloatingLogo/FloatingLogo";
 import Navbar from "./components/Navbar/Navbar";
 import Menu from "./components/Menu/Menu";

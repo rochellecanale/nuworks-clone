@@ -1,0 +1,80 @@
+[
+	{
+		"image": "./assets/images/Works/image_15.jpg",
+		"title": "PMFTC Appwards",
+		"tag": "CX"
+	},
+	{
+		"image": "./assets/images/Works/image_17.png",
+		"title": "Ingat Angat",
+		"tag": "CX"
+	},
+	{
+		"image": "./assets/images/Works/image_9.jpg",
+		"title": "Swift Meat E-tindahan",
+		"tag": "Commerce"
+	},
+	{
+		"image": "./assets/images/Works/image_16.jpg",
+		"title": "Avida Live Ready",
+		"tag": "Communications"
+	},
+
+	{
+		"image": "./assets/images/Works/image_28.png",
+		"title": "Rockwellist",
+		"tag": "CX"
+	},
+	{
+		"image": "./assets/images/Works/image_14.jpg",
+		"title": "Burger King Jackpot Fries",
+		"tag": "Communications"
+	},
+	{
+		"image": "./assets/images/Works/image_10.jpg",
+		"title": "Greenwich GBox",
+		"tag": "CX"
+	},
+	{
+		"image": "./assets/images/Works/image_24.png",
+		"title": "Jollibee Corporate Website",
+		"tag": "CX"
+	},
+
+	{
+		"image": "./assets/images/Works/image_26.png",
+		"title": "CECP Website",
+		"tag": "CX"
+	},
+	{
+		"image": "./assets/images/Works/image_7.svg",
+		"title": "UNICEF Basket of Hope Year 2",
+		"tag": "Commerce"
+	},
+	{
+		"image": "./assets/images/Works/image_13.jpg",
+		"title": "Red Horse Beer Planner",
+		"tag": "Communications"
+	},
+	{
+		"image": "./assets/images/Works/image_8.jpg",
+		"title": "Purina Super Christmas",
+		"tag": "Commerce"
+	},
+
+	{
+		"image": "./assets/images/Works/image_11.png",
+		"title": "Marlboro Ice Blast",
+		"tag": "CX"
+	},
+	{
+		"image": "./assets/images/Works/image_6_O6TL1aE.jpg",
+		"title": "SMB Delivers Commerce",
+		"tag": "Commerce"
+	},
+	{
+		"image": "./assets/images/Works/image_25.png",
+		"title": "Boomerang Awards",
+		"tag": "Communications"
+	}
+]
