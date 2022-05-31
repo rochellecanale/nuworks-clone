@@ -1,9 +1,12 @@
-import React from 'react'
-import './TechStack.css'
 
-import techStackData from '../../data/techStackData.json'
+import './TechStack.css'
+import useFetchData from '../../hooks/useFetchData'
 
 function TechStack() {
+
+	const schema = '/tech_stack.json'
+	const { data } = useFetchData(`${ process.env.REACT_APP_API_BASE_URL }/${ schema }?key=${ process.env.REACT_APP_API_KEY}`)
+
 	return (
 		<div id="our-tech-stacks">
 			<div className="our-tech-stacks-wrapper">
@@ -27,13 +30,19 @@ function TechStack() {
 					</div>
 					<div className="our-tech-stacks-list">
 						{
-							techStackData.map((stack, index) => (
-								<div className="our-tech-stack" key={ index }>
-									<div className="our-tech-stack-inner">
-										<img src={ stack.image } alt={ stack.label } />
-									</div>
-								</div>
-							))
+							data && (
+								data.map((stack, index) => (
+
+									stack.image && stack.label ?
+										<div className="our-tech-stack" key={ index }>
+											<div className="our-tech-stack-inner">
+												<img src={ stack.image } alt={ stack.label } />
+											</div>
+										</div>
+									:
+										null
+								))
+							)
 						}
 					</div>
 				</div>

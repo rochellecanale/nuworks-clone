@@ -1,8 +1,11 @@
 import React from 'react'
 import './WorkDescription.css'
-import worksData from '../../data/worksData.json'
+import useFetchData from '../../hooks/useFetchData'
 
 function WorkDescription() {
+
+	const { data } = useFetchData('https://my.api.mockaroo.com/our_works.json?key=e5c303d0')
+
 	return (
 		<div id="work-desc">
 			<div className="container">
@@ -46,22 +49,28 @@ function WorkDescription() {
 						<div className="related-work-ajax">
 
 							{
-								worksData.map((work, index) => (
-									<div className="related-work-holder" key={ index }>
-										<a href="/">
-											<div className="related-work-image">
-												<div
-													className="bg-image"
-													style={{ backgroundImage: `URL(${ work.image })` }}
-												></div>
+								data && (
+									data.map((work, index) => (
+
+										work.image && work.title && work.tag ?
+											<div className="related-work-holder" key={index}>
+												<a href="/">
+													<div className="related-work-image">
+														<div
+															className="bg-image"
+															style={{ backgroundImage: `URL(${work.image})` }}
+														></div>
+													</div>
+													<div className="related-work-desc-wrapper">
+														<div className="related-work-title">{work.title}</div>
+														<div className="related-work-tags">{work.tag}</div>
+													</div>
+												</a>
 											</div>
-											<div className="related-work-desc-wrapper">
-												<div className="related-work-title">{ work.title }</div>
-												<div className="related-work-tags">{ work.tag }</div>
-											</div>
-										</a>
-									</div>
-								))
+											:
+												null
+									))
+								)
 							}
 
 						</div>
