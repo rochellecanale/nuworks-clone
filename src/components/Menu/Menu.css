@@ -151,7 +151,14 @@
 	color: #434343;
 }
 
+
 @media (max-width: 575.98px) {
+	#menu {
+		width: 100% !important;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
 	#menu {
 		width: 100% !important;
 	}
