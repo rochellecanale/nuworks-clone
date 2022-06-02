@@ -5,6 +5,10 @@
 	z-index: 1;
 }
 
+.persistent-logo:hover {
+	cursor: pointer;
+}
+
 .persistent-logo img {
 	height: 80px;
 	width: auto;
